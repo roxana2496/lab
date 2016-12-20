@@ -13,7 +13,7 @@ class Stack {
 
         vector <T> v;
 };
-
+//change
 template<typename T> bool Stack<T>::isEmpty() const
 {
     return (v.empty());
